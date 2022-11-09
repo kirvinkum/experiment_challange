@@ -7,8 +7,20 @@
 #### ------ Screenshots ------
 
 
-
+#### Login Screen
 ![image description](/images/img1.png)
+
+#### Empty dashboard
+![image description](/images/img2.png)
+
+#### Experiment upload screen
+![image description](/images/img3.png)
+
+#### Plot and filters
+![image description](/images/img4.png)
+
+#### Experiment switch
+![image description](/images/img5.png)
 
 #### ------ Tech stack ------
 * Django restfamework (backend)
