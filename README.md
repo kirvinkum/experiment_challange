@@ -7,6 +7,9 @@
 #### ------ Screenshots ------
 
 
+
+![image description](/Users/vkumar/Desktop/images/img1.png)
+
 #### ------ Tech stack ------
 * Django restfamework (backend)
 * React js (frontend)
