@@ -27,10 +27,9 @@
 
 #### Secure login at frontend
 
-* React hooks usage context usage
+* React hooks and context usage
 
 #### Accept multiple experiments
-* To allows comparison of historical data
 * And to support future data
 
 #### Experimental data upload
@@ -39,7 +38,6 @@
 * Validations
 * Map files data to objects
 * Usage to transactions for roll back
-* Upload/experiment creation progress bar
 * Some simple tricks to load data faster to database
 
 #### Setup Frontend (port:3000)
