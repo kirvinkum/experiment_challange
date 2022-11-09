@@ -1,0 +1,9 @@
+[
+  {
+    "model": "users.User",
+    "fields": {
+      "username": "demouser",
+      "password" : "dE£RFCGE2SFW"
+    }
+  }
+]
