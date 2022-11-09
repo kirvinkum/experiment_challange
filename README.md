@@ -8,7 +8,7 @@
 
 
 
-![image description](/Users/vkumar/Desktop/images/img1.png)
+![image description](/images/img1.png)
 
 #### ------ Tech stack ------
 * Django restfamework (backend)
